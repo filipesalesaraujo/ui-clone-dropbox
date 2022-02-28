@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 export default [
   {
     title: "Concentre-se apenas no trabalho importante",
